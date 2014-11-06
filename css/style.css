@@ -1,10 +1,16 @@
+body
+{
+margin:0 auto;
+}
 #top
 {
-width:100%;
+width:80%;
 height:200px;
 background-color:green;
 position:fixed;
 z-index:1;
+left:10%;
+
 }
 #title
 {
@@ -18,7 +24,7 @@ top:50px;
 position:fixed;
 float:right;
 top:100px;
-left:80%;
+right:15%;
 }
 
 #logo
@@ -28,24 +34,24 @@ width:120px;
 height:120px;
 background-color:green;
 position:fixed;
-left:50px;
+left:15%;
 top:50px;
 
 }
 
 #left
 {
-height:600px;
-width:20%;
+height:800px;
+width:15%;
 background-color:purple;
 float:left;
-
+position:relative;
 }
 
 #right
 {
-height:600px;
-width:20%;
+height:800px;
+width:15%;
 background-color:pink;
 float:right;
 font-size:15px;
@@ -54,21 +60,22 @@ color: white;
 
 #middle
 {
-height:600px;
-width:60%;
+height:800px;
+width:70%;
 float:left;
 background-color:blue;
 }
 
 #wrapper
 {
-width:100%;
+width:80%;
 min-height:600px;
 background-color:grey;
 position:relative;
 top:200px;
-color: white;
-font-size: 15px;
+color:black;
+font-size:15px;
+left:10%;
 }
 
 
@@ -76,6 +83,9 @@ font-size: 15px;
 {
 position:relative;
 background-color:yellow;
+height:80%;
+width:80%;
+margin:0 auto;
 }
 
 
@@ -85,5 +95,7 @@ width: 200px;
 height: 100px;
 background-color: white;
 }
+
+
 
 
