@@ -41,7 +41,7 @@ top:50px;
 
 #left
 {
-height:800px;
+height:1000px;
 width:15%;
 background-color:purple;
 float:left;
@@ -50,7 +50,7 @@ position:relative;
 
 #right
 {
-height:800px;
+height:1000px;
 width:15%;
 background-color:pink;
 float:right;
@@ -60,7 +60,7 @@ color: white;
 
 #middle
 {
-height:800px;
+height:1000px;
 width:70%;
 float:left;
 background-color:blue;
@@ -148,7 +148,7 @@ float:right;
 #wrapper
 {
 width:80%;
-min-height:600px;
+min-height:1000px;
 background-color:grey;
 position:relative;
 top:200px;
@@ -176,6 +176,30 @@ background-color: white;
 font-size: 85%;
 }
 
+#accordion
+{
+background-color:purple;
+height:600px;
+width:100%;
+}
+
+.ui-content
+{
+width:198px;
+background-color:purple;
+}
+
+.ui-page.ui-page-theme-a.ui-page-active
+{
+min-height:600px;
+background-color:purple;
+}
+
+.ui-content.ui-footer.ui-bar-inherit
+{
+width:90%;
+position:relative;
+}
 
 
 
