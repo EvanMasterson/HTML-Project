@@ -66,6 +66,85 @@ float:left;
 background-color:blue;
 }
 
+#wrapper2
+{
+height:90%;
+width:90%;
+position:relative;
+background-color: yellow;
+left: 5%;
+right:5%;
+top:5%
+}
+
+#box1
+{
+background-color: white;
+height: 160px;
+width:160px;
+position:relative;
+top: 30px;
+left: 35px;
+float: left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackflip.png");
+}
+
+#box2
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 30px;
+left: 80px;
+position:relative;
+float:left;
+
+}
+
+#box3
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 30px;
+right:35px;
+position:relative;
+float:right;
+}
+
+#box4
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:51px;
+position:relative;
+float:left;
+left:35px;
+}
+
+#box5
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 50px;
+left: 80px;
+position:relative;
+float:left;
+}
+
+#box6
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 50px;
+right: 35px;
+position:relative;
+float:right;
+}
+
 #wrapper
 {
 width:80%;
@@ -91,9 +170,10 @@ margin:0 auto;
 
 #social
 {
-width: 200px;
+width: 157px;
 height: 100px;
 background-color: white;
+font-size: 85%;
 }
 
 
