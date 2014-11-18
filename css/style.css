@@ -300,9 +300,41 @@ margin:0 auto;
 width: 100%;
 height: 100px;
 background-color: white;
-font-size: 65%;
+font-size: 85%;
 }
 
+#accordion
+{
+background-color:purple;
+height:600px;
+width:80%;
+}
+
+.ui-content
+{
+width:80%;
+background-color:purple;
+}
+
+.ui-page.ui-page-theme-a.ui-page-active
+{
+min-height:600px;
+background-color:purple;
+>>>>>>> 9674234523e57c921db93bdae016d08c432711b9
+}
+
+
+.ui-btn
+{
+font-size:85% !important;
+}
+
+.ui-btn-icon-left
+{
+content: "";
+position: absolute;
+display: block;
+}
 
 
 
