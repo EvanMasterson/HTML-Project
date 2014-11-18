@@ -180,12 +180,12 @@ font-size: 85%;
 {
 background-color:purple;
 height:600px;
-width:100%;
+width:80%;
 }
 
 .ui-content
 {
-width:198px;
+width:80%;
 background-color:purple;
 }
 
@@ -199,6 +199,18 @@ background-color:purple;
 {
 width:90%;
 position:relative;
+}
+
+.ui-btn
+{
+font-size:85% !important;
+}
+
+.ui-btn-icon-left
+{
+content: "";
+position: absolute;
+display: block;
 }
 
 
