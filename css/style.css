@@ -77,14 +77,27 @@ right:5%;
 top:5%
 }
 
+#four
+{
+height:120px;
+width:160px;
+position: relative;
+top:30px;
+left:40px;
+float:left;
+background-color:red;
+color: white;
+font-size: 30px;
+}
+
 #box1
 {
 background-color: white;
-height: 160px;
-width:160px;
+height: 120px;
+width:120px;
 position:relative;
 top: 30px;
-left: 35px;
+left: 25px;
 float: left;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackflip.png");
 }
@@ -95,7 +108,7 @@ background-color: white;
 height: 160px;
 width:160px;
 top: 30px;
-left: 80px;
+left: 50px;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackgel.png");
@@ -107,7 +120,7 @@ background-color: white;
 height: 160px;
 width:160px;
 top: 30px;
-right:35px;
+right:25px;
 position:relative;
 float:right;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackwallet.png");
