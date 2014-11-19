@@ -1,0 +1,736 @@
+body
+{
+margin:0 auto;
+font-family:georgia;
+}
+/* initial, Lucida Sans Unicode, Courier New */
+/* font examples http://www.hongkiat.com/blog/top-10-fonts-designers-love/ */
+#top
+{
+width:80%;
+height:200px;
+background-color:green;
+position:fixed;
+z-index:10;
+left:10%;
+}
+/* colour schemes: #2E4272 or CCFFCC or #003264(or reverse #FFFFBE) */
+#title
+{
+position:fixed;
+left:40%;
+top:50px;
+}
+
+#search
+{
+position:fixed;
+float:right;
+top:100px;
+right:15%;
+}
+
+#logo
+{
+width:120px;
+height:120px;
+background-color:green;
+position:fixed;
+left:15%;
+top:50px;
+}
+/* colour schemes: #2E4272 or #CCFFCC or  */
+
+#left
+{
+min-height:800px;
+width:15%;
+background-color:purple;
+float:left;
+position:relative;
+}
+/* colour schemes: #546A9D or #0099CC or #FFFFBE */
+
+#right
+{
+height:800px;
+width:15%;
+background-color:pink;
+float:right;
+font-size:15px;
+color: white;
+}
+/* colour schemes: #546A9D or #0099CC or #FFFFBE */
+
+#middle
+{
+height:800px;
+width:70%;
+float:left;
+background-color:white;
+color: Navy;
+font-size: 30px;
+text-align: center;
+margin: 0 auto;
+}
+
+#wrapper2
+{
+min-height:90%;
+width:90%;
+position:relative;
+background-color: white;
+left: 5%;
+right:5%;
+top:2%
+}
+
+#four
+{
+height:120px;
+width:100%;
+position: relative;
+top:30px;
+background-color:red;
+color: white;
+font-size: 30px;
+text-align: center;
+}
+#five
+{
+height:120px;
+width:100%;
+position: relative;
+top:60px;
+background-color:red;
+color: white;
+font-size: 30px;
+text-align: center;
+}
+#fivec
+{
+height:120px;
+width:100%;
+position: relative;
+top:90px;
+background-color:red;
+color: white;
+font-size: 30px;
+text-align: center;
+}
+#six
+{
+height:120px;
+width:100%;
+position: relative;
+top:120px;
+background-color:red;
+color: white;
+font-size: 30px;
+text-align: center;
+}
+
+#accessories
+{
+height:120px;
+width:100%;
+position: relative;
+top:150px;
+background-color:red;
+color: white;
+font-size: 30px;
+text-align: center;
+}
+
+/* iPhone 4 & 4S */ 
+#box1
+{
+background-color: white;
+height: 160px;
+width:160px;
+position:relative;
+top: 30px;
+left: 35px;
+float: left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackflip.png");
+cursor:pointer;
+}
+
+#box2
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 30px;
+left: 80px;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackgel.png");
+cursor:pointer;
+}
+
+#box3
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 30px;
+right:35px;
+position:relative;
+float:right;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackwallet.png");
+cursor:pointer;
+}
+
+#box4
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:51px;
+position:relative;
+float:left;
+left:35px;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4scleargel.png");
+cursor:pointer;
+}
+
+#box5
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 50px;
+left: 80px;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sclearhard.png");
+cursor:pointer;
+}
+
+#box6
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 50px;
+right: 35px;
+position:relative;
+float:right;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sgreyflip.png");
+cursor:pointer;
+}
+
+#box7
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:81px;
+position:relative;
+float:left;
+left:35px;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade1.png");
+cursor:pointer;
+}
+
+#box8
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:81px;
+left: 80px;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade2.png");
+cursor:pointer;
+}
+
+#box9
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:81px;
+right: 35px;
+position:relative;
+float:right;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade3.png");
+cursor:pointer;
+}
+
+#box10
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:112px;
+position:relative;
+float:left;
+left:35px;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade4.png");
+cursor:pointer;
+}
+
+#box11
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:112px;
+left: 80px;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade5.png");
+cursor:pointer;
+}
+
+#box12
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:112px;
+right: 35px;
+position:relative;
+float:right;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sredflip.png");
+cursor:pointer;
+}
+
+
+
+/* iPhone 5 & 5S */ 
+#box13
+{
+background-color: white;
+height: 160px;
+width:160px;
+position:relative;
+top: 30px;
+left: 35px;
+float: left;
+background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5sblackgel.png");
+cursor:pointer;
+}
+
+#box14
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 30px;
+left: 80px;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5sblackwallet.png");
+cursor:pointer;
+}
+
+#box15
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 30px;
+right:35px;
+position:relative;
+float:right;
+background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5sbluegel.png");
+cursor:pointer;
+}
+
+#box16
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:51px;
+position:relative;
+float:left;
+left:35px;
+background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5sredflip.png");
+cursor:pointer;
+}
+
+#box17
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 50px;
+left: 80px;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5sturquoisegel.png");
+cursor:pointer;
+}
+
+#box18
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 50px;
+right: 35px;
+position:relative;
+float:right;
+background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5swhitegel.png");
+cursor:pointer;
+}
+
+/* iPhone 5c */ 
+#box19
+{
+background-color: white;
+height: 160px;
+width:160px;
+position:relative;
+top: 30px;
+left: 35px;
+float: left;
+background-image: url("../Pictures/Iphone 5c cases/iphone5cblack.png");
+cursor:pointer;
+}
+#box20
+{
+background-color: white;
+height: 160px;
+width:160px;
+position:relative;
+top: 70px;
+left: 35px;
+float: left;
+background-image: url("../Pictures/Iphone 5c cases/iphone5cyellow.png");
+cursor:pointer;
+}
+
+#box21
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 30px;
+left: 80px;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 5c cases/iphone5cblackflip.png");
+cursor:pointer;
+}
+
+#box22
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 30px;
+right:35px;
+position:relative;
+float:right;
+background-image: url("../Pictures/Iphone 5c cases/iphone5cblue.png");
+cursor:pointer;
+}
+
+#box23
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:50px;
+position:relative;
+float:left;
+left:35px;
+background-image: url("../Pictures/Iphone 5c cases/iphone5cgreen.png");
+cursor:pointer;
+}
+
+#box24
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 50px;
+left: 80px;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 5c cases/iphone5cpink.png");
+cursor:pointer;
+}
+
+#box25
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 50px;
+right: 35px;
+position:relative;
+float:right;
+background-image: url("../Pictures/Iphone 5c cases/iphone5cwhite.png");
+cursor:pointer;
+}
+
+/* iPhone 6 */
+#box26
+{
+background-color: white;
+height: 160px;
+width:160px;
+position:relative;
+top: 30px;
+left: 35px;
+float: left;
+background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6black.png");
+cursor:pointer;
+}
+
+#box27
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 30px;
+left: 80px;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6blue.png");
+cursor:pointer;
+}
+
+#box28
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 30px;
+right:35px;
+position:relative;
+float:right;
+background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6grey.png");
+cursor:pointer;
+}
+
+#box29
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:51px;
+position:relative;
+float:left;
+left:35px;
+background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6purple.png");
+cursor:pointer;
+}
+
+#box30
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 50px;
+left: 80px;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6yellow.png");
+cursor:pointer;
+}
+
+/* Accessories */
+#box31
+{
+background-color: white;
+height: 160px;
+width:160px;
+position:relative;
+top: 30px;
+left: 35px;
+float: left;
+background-image: url("../Pictures/Accessories/3.5 to 3.5 jack.png");
+cursor:pointer;
+}
+
+#box32
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 30px;
+left: 80px;
+position:relative;
+float:left;
+background-image: url("../Pictures/Accessories/iphonecarcharger.png");
+cursor:pointer;
+}
+
+#box33
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 30px;
+right:35px;
+position:relative;
+float:right;
+background-image: url("../Pictures/Accessories/iphonemainscharger.png");
+cursor:pointer;
+}
+
+#box34
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:50px;
+position:relative;
+float:left;
+left:35px;
+background-image: url("../Pictures/Accessories/microusbcarcharger.png");
+cursor:pointer;
+}
+
+#box35
+{
+background-color: white;
+height: 160px;
+width:160px;
+top: 50px;
+left: 80px;
+position:relative;
+float:left;
+background-image: url("../Pictures/Accessories/microusbdatacable.png");
+cursor:pointer;
+}
+#box36
+{
+background-color: white;
+height: 160px;
+width:160px;
+top:70px;
+position:relative;
+float:right;
+right:35px;
+background-image: url("../Pictures/Accessories/microusbmainscharger.png");
+cursor:pointer;
+}
+
+
+#wrapper
+{
+width:80%;
+min-height:600px;
+background-color:grey;
+position:relative;
+top:200px;
+color:black;
+font-size:15px;
+left:10%;
+}
+
+
+#about
+{
+position:relative;
+background-color:yellow;
+height:80%;
+width:80%;
+margin:0 auto;
+top:20px;
+}
+
+
+#social
+{
+width: 100%;
+height: 130px;
+background-color: pink;
+font-size: 85%;
+}
+
+#accordion
+{
+background-color:purple;
+height:600px;
+width:80%;
+}
+
+#email
+{
+height:50px;
+width:80%;
+position: relative;
+top:60px;
+background-color:red;
+color: white;
+font-size: 25px;
+text-align: center;
+float:left;
+left: 10%;
+}
+
+#phone
+{
+height:50px;
+width:80%;
+position: relative;
+top:90px;
+background-color:red;
+color: white;
+font-size: 25px;
+text-align: center;
+float:left;
+left: 10%;
+}
+
+#come
+{
+height:100px;
+width:80%;
+position: relative;
+top:120px;
+background-color:red;
+color: white;
+font-size: 25px;
+text-align: center;
+float:left;
+left: 10%;
+}
+#googleMap
+{
+width: 500px;
+height: 200px;
+background-color:#CCC;
+top: 170px;
+position:relative;
+float: left;
+left:6%;
+}
+
+.ui-content
+{
+width:80%;
+background-color:purple;
+}
+
+.ui-page.ui-page-theme-a.ui-page-active
+{
+min-height:600px;
+background-color:purple;
+}
+
+
+.ui-btn
+{
+font-size:85% !important;
+}
+
+.ui-btn-icon-left
+{
+content: "";
+position: absolute;
+display: block;
+}
+
+
+
