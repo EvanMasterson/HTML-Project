@@ -4,7 +4,28 @@
 		<title>Mi Electronics || Contact Us</title>
 		
 		<link rel="stylesheet" href="../css/style.css" />
+		<script
+		src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&sensor=false">
+		</script>
+
+		<script>
+		function initialize()
+		{
+		var mapProp = {
+		center:new google.maps.LatLng(53.2876919,-6.365601200000015),
+		zoom:14,
+		mapTypeId:google.maps.MapTypeId.ROADMAP
+		};
+		var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+		var marker = new google.maps.Marker({
+		position: new google.maps.LatLng(53.2876919,-6.365601200000015), 
+		map: map
+		});
+		}
+	
 		
+		google.maps.event.addDomListener(window, 'load', initialize);
+</script>
 	</head>
 	<body>
 		<div id="top"> 
@@ -33,22 +54,23 @@
 			
 			</div>
 			
-			<div id="middle">
-				
+			<div id="middle"> Contact Us
+					<div id="email"> Email Us: <a href="mailto:mielectronicsteam@gmail.com" target="_blank"> mielectronicsteam@gmail.com </a>  </div>
+					<div id="phone"> Phone: 010000000 </div>
+					<div id="come"> Come To Our Store <br/> <br/> Unit 8, High Street, Tallaght, Dublin 24 </div>
+					<div id="googleMap"> </div>
 			</div>
 			
 			<div id="right">
 				<div id="social" >
 					
 						<a href="https://twitter.com/MiRepairs" target="blank">
-						<img src="../pictures/twitter-logo.png" alt="Twitter" style="width:32px;height:32px;border:0">
-						Follow us on Twitter</a> 
+						<img src="../pictures/twitter-logo.png" alt="Twitter" style="width:32px;height:32px;border:0"><br/>Follow us on Twitter</a> 
 					
-			
+						<br/> <br/>
 					
 						<a href="https://www.facebook.com/pages/Mi-Electronics/617060458404532?sk=timeline&ref=page_internal" target="blank">
-						<img src="../pictures/fb_icon_325x325.png" alt="Facebook" style="width:32px;height:32px;border:0">
-						Like us on Facebook</a>
+						<img src="../pictures/fb_icon_325x325.png" alt="Facebook" style="width:32px;height:32px;border:0"><br/>Like us on Facebook</a>
 					
 				</div>
 			</div>
