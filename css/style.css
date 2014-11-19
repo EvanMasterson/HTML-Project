@@ -1,7 +1,7 @@
 body
 {
 margin:0 auto;
-font-family
+font-family:georgia;
 }
 /* initial, Lucida Sans Unicode, Courier New */
 /* font examples http://www.hongkiat.com/blog/top-10-fonts-designers-love/ */
@@ -11,7 +11,7 @@ width:80%;
 height:200px;
 background-color:green;
 position:fixed;
-z-index:1;
+z-index:10;
 left:10%;
 }
 /* colour schemes: #2E4272 or CCFFCC or #003264(or reverse #FFFFBE) */
@@ -71,6 +71,7 @@ background-color:white;
 color: Navy;
 font-size: 30px;
 text-align: center;
+margin: 0 auto;
 }
 
 #wrapper2
