@@ -7,7 +7,9 @@
 		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.4/jquery.mobile-1.4.4.min.css">
 		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 		<script src="http://code.jquery.com/mobile/1.4.4/jquery.mobile-1.4.4.min.js"></script>
-		
+		<link rel="stylesheet" href="css/style2.css" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script src="js/jquery.nivo.slider.pack.js"></script>
 	</head>
 	<body>
 	
@@ -103,7 +105,30 @@
 			</div>
 			
 			<div id="middle">
-						
+				<div id="sswrapper">
+					<div class="slider-wrapper futurico-theme">
+		 
+						<div id="slider" class="nivoSlider">
+			
+							<img src="img/slide1.png" alt="" title="#caption1">
+					
+							<img src="img/slide2.png" alt="">
+					
+							<img src="img/slide3.png" alt="" title="#caption3">
+					
+							<img src="img/slide4.png" alt="">
+					
+						</div>
+						<div id="caption1" class="nivo-html-caption">
+							<strong>New Project</strong> <span></span> <em>Some description here</em>.
+						</div>
+					 
+						<div id="caption3" class="nivo-html-caption">
+							<strong>Image 3</strong> <span></span> <em>Some description here</em>.
+						</div>
+				 
+					</div>		
+				</div>		
 			</div>
 				
 			<div id="right">
@@ -123,9 +148,16 @@
 			 </div>
 
 		</div>
-		
-
-
+	<script>	
+		$(window).load(function() {
+			$('#slider').nivoSlider({
+				directionNavHide: false,
+				captionOpacity: 1,
+				prevText: '<',
+				nextText: '>'
+			});
+		});
+	</script>
 	</body>
 
 </html>
