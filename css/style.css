@@ -13,6 +13,7 @@ background-color:green;
 position:fixed;
 z-index:10;
 left:10%;
+color: white;
 }
 /* colour schemes: #2E4272 or CCFFCC or #003264(or reverse #FFFFBE) */
 #title
@@ -143,11 +144,12 @@ text-align: center;
 }
 
 /* iPhone 4 & 4S */ 
+
 #box1
 {
 background-color: white;
-height: 160px;
-width:160px;
+height: 20%;
+width:20%;
 position:relative;
 top: 30px;
 left: 35px;
@@ -302,6 +304,7 @@ cursor:pointer;
 
 
 /* iPhone 5 & 5S */ 
+
 #box13
 {
 background-color: white;
@@ -380,7 +383,9 @@ background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5swhitegel.png");
 cursor:pointer;
 }
 
+
 /* iPhone 5c */ 
+
 #box19
 {
 background-color: white;
@@ -471,19 +476,22 @@ background-image: url("../Pictures/Iphone 5c cases/iphone5cwhite.png");
 cursor:pointer;
 }
 
+
 /* iPhone 6 */
+
 #box26
 {
 background-color: white;
 height: 160px;
 width:160px;
 position:relative;
-top: 30px;
-left: 35px;
+top: 5%;
+left: 5%;
 float: left;
 background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6black.png");
 cursor:pointer;
 }
+
 
 #box27
 {
@@ -537,7 +545,9 @@ background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6yellow.png");
 cursor:pointer;
 }
 
+
 /* Accessories */
+
 #box31
 {
 background-color: white;
@@ -701,10 +711,10 @@ left: 10%;
 width: 500px;
 height: 200px;
 background-color:#CCC;
-top: 170px;
+top: 180px;
 position:relative;
 float: left;
-left:6%;
+left:15%;
 }
 
 .ui-content
@@ -730,6 +740,18 @@ font-size:85% !important;
 content: "";
 position: absolute;
 display: block;
+}
+
+/* link styling */
+
+a:link{
+color: white; 
+}
+a:visited{
+color: navy;
+}
+a:hover{
+color: yellow;
 }
 
 
