@@ -2,6 +2,7 @@ body
 {
 margin:0 auto;
 font-family:georgia;
+background-image: url("../Pictures/bg.png");
 }
 /* initial, Lucida Sans Unicode, Courier New */
 /* font examples http://www.hongkiat.com/blog/top-10-fonts-designers-love/ */
@@ -14,6 +15,7 @@ position:fixed;
 z-index:10;
 left:10%;
 color: white;
+background-image: url("../Pictures/headerbg.png");
 }
 /* colour schemes: #2E4272 or CCFFCC or #003264(or reverse #FFFFBE) */
 #title
@@ -68,7 +70,7 @@ background-image: url("../Pictures/Header.png");
 
 #middle
 {
-min-height:80%;
+height:80%;
 width:70%;
 float:left;
 background-color:white;
@@ -655,6 +657,7 @@ height:80%;
 width:80%;
 margin:0 auto;
 top:20px;
+font-size:80%;
 }
 
 
