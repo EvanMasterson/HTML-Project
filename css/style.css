@@ -775,19 +775,16 @@ a:hover{
 color: yellow;
 }
 
-#footer
+.footer
 {
 max-width: 100%;
 position:relative;
-max-height: 10%;
+max-height: 100px;
+bottom:0px;
+float:left;
 }
 
-#footer-wrapper
-{
-max-width: 100%;
-max-height: 20%;
 
-}  
 
 #f1
 {
