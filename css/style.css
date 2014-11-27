@@ -2,8 +2,13 @@ body
 {
 margin:0 auto;
 font-family:georgia;
-background: white;
+background: #F3F5EB;
+/* background-image: url("../Pictures/pa.png"); */
+/* background-image: url("../Pictures/c.png"); */
+/* background-image: url("../Pictures/bg-6-full.png");*/
+/* background-image: url("../Pictures/p.png"); */
 margin-bottom: 8px;
+
 }
 /* initial, Lucida Sans Unicode, Courier New */
 /* font examples http://www.hongkiat.com/blog/top-10-fonts-designers-love/ */
@@ -74,7 +79,7 @@ padding-bottom: 150px;
 
 #middle
 {
-height:900px;
+min-height:100%;
 width:70%;
 float:left;
 background-color:blue;
@@ -82,13 +87,11 @@ color: Navy;
 font-size: 30px;
 text-align: center;
 margin: 0 auto;
-margin-bottom: 100px;
-
 }
 
 #wrapper2
 {
-min-height:90%;
+min-height:99%;
 width:90%;
 position:relative;
 background-color: white;
@@ -653,10 +656,9 @@ top:200px;
 color:black;
 font-size:15px;
 left:10%;
-margin-bottom:110px;
+margin-bottom:150px;
 right: 0;
 bottom: 0;
-
 }
 
 
@@ -679,6 +681,12 @@ height: 130px;
 font-size: 85%;
 background-image: url("../Pictures/headerbg.png");
 color:white;
+}
+
+#scroll{
+height: 1px;
+width: 80%;
+background: white;
 }
 
 #accordion
@@ -783,6 +791,9 @@ color: navy;
 a:hover{
 color: yellow;
 }
+a:active{
+color:white;
+}
 
 .footer
 {
@@ -797,15 +808,16 @@ z-index: 5;
 
 
 
-#f1
+.f1
 {
-left: 0;
+left: 20%;
 top: 0;
 position:absolute;
 height:98%;
 width:210px;
 z-index: 6;
 color:white;
+font: center;
 }
 
 #f2
@@ -817,6 +829,27 @@ z-index: 6;
 }
 
 
+.f3
+{
+left:5%;
+position:absolute;
+z-index:5;
+bottom: 10%;
+color: white;
+font-size: 12px;
+}
+
+#f4
+{
+top: 12%;
+right: 7%;
+position:absolute;
+z-index: 6;
+height: 30px;
+width: 100px;
+color: white;
+font-size: 20px;
+}
 
 
 
