@@ -48,7 +48,7 @@ top:50px;
 
 #left
 {
-height: 90%;
+height: 100%;
 width:15%;
 background-color:#45E6C5;
 float:left;
@@ -60,7 +60,7 @@ padding-bottom: 150px;
 
 #right
 {
-height: 90%;
+height: 100%;
 width:15%;
 background-color:#45E6C5;
 float:right;
@@ -77,7 +77,7 @@ padding-bottom: 150px;
 height:900px;
 width:70%;
 float:left;
-background-color:white;
+background-color:blue;
 color: Navy;
 font-size: 30px;
 text-align: center;
@@ -646,7 +646,7 @@ cursor:pointer;
 #wrapper
 {
 width:80%;
-height: 900px ;
+min-height: 900px ;
 background-color:grey;
 position:absolute;
 top:200px;
@@ -676,7 +676,6 @@ font-size:70%;
 {
 width: 100%;
 height: 130px;
-background-color: #45E6C5;
 font-size: 85%;
 background-image: url("../Pictures/headerbg.png");
 color:white;
@@ -736,7 +735,7 @@ background-image: url("../Pictures/header-1 copy.png");
 }
 #googleMap
 {
-width: 500px;
+width: 70%;
 height: 200px;
 background-color:#CCC;
 top: 180px;
@@ -787,7 +786,7 @@ color: yellow;
 
 .footer
 {
-max-width: 100%;
+min-width: 100%;
 position:relative;
 max-height: 150px;
 bottom:2px;
