@@ -2,7 +2,7 @@ body
 {
 margin:0 auto;
 font-family:georgia;
-background-image: url("../Pictures/bg.png");
+background: white;
 margin-bottom: 8px;
 }
 /* initial, Lucida Sans Unicode, Courier New */
@@ -53,12 +53,8 @@ width:15%;
 background-color:#45E6C5;
 float:left;
 position:relative;
-<<<<<<< HEAD
 background-image: url("../Pictures/headerbg.png");
-=======
-background-image: url("../Pictures/Header.png");
 padding-bottom: 150px;
->>>>>>> af92553f25848350e25240fa21a058507f398c8d
 }
 
 
@@ -70,12 +66,9 @@ background-color:#45E6C5;
 float:right;
 font-size:15px;
 color: white;
-<<<<<<< HEAD
 background-image: url("../Pictures/headerbg.png");
-=======
-background-image: url("../Pictures/Header.png");
 padding-bottom: 150px;
->>>>>>> af92553f25848350e25240fa21a058507f398c8d
+
 }
 
 
