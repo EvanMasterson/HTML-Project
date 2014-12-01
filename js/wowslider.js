@@ -53,7 +53,7 @@ jQuery.fn.wowSlider = function (d) {
         return ((D || 0) + v) % v
     }
     var C = navigator.userAgent;
-    /*if ((e.browser.msie && parseInt(e.browser.version, 10) < 8) || (/Safari/.test(C))) {
+    if ((e.browser.msie && parseInt(e.browser.version, 10) < 8) || (/Safari/.test(C))) {
         var b = Math.pow(10, Math.ceil(Math.LOG10E * Math.log(v)));
         l.css({
             width: b + "00%"
@@ -71,7 +71,7 @@ jQuery.fn.wowSlider = function (d) {
             "float": "none",
             width: "auto"
         })
-    }*/
+    }
     u(0);
     var k = [];
     m.each(function (D) {

@@ -782,7 +782,7 @@ display: block;
 /* link styling */
 
 a:link{
-color: white; 
+color: black; 
 }
 a:visited{
 color: navy;

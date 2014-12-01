@@ -6,17 +6,19 @@
 #wowslider-container { 
 	zoom: 1; 
 	position: relative; 
-	width:580px;
-	min-height: 300px;
+	width:707px;
+	width:707px;
+	height: 350px;
 	margin:0 auto;
+	z-index:0;
 	border:none;
-	text-align:left; /* reset align=center */
+	text-align:center; 
 }
 * html #wowslider-container{ width:580px }
 #wowslider-container ul{
 	position:relative;
 	width: 10000%; 
-	height:600px;
+	height:auto;
 	left:0;
 	list-style:none;
 	margin:0;
@@ -52,7 +54,6 @@
 	width:100%;
 	border:none 0;
 	max-width: none;
-	height:200px;
 }
 #wowslider-container a{ 
 	text-decoration: none; 
@@ -182,7 +183,7 @@
     -moz-box-shadow: 0 0 5px #999999;
     box-shadow: 0 0 5px #999999;
     border: 5px solid #FFFFFF;
-	max-width:300px;
+	max-width:none;
 }
 #wowslider-container .ws_bullets a:hover img{
 	visibility:visible;
