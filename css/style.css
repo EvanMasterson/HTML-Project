@@ -781,18 +781,15 @@ display: block;
 
 /* link styling */
 
-a:link{
-color: white; 
-} 
+
 a:visited{
 color: navy;
-}
+} 
 a:hover{
 color: yellow;
 }
-a:active{
-color:white;
-}
+
+
 
 .footer
 {
