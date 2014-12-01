@@ -8,7 +8,7 @@
 		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 		<script src="http://code.jquery.com/mobile/1.4.4/jquery.mobile-1.4.4.min.js"></script>
 		<!-- scrolling -->
-		<script src="jquery.js"></script>
+		<script src="../../jQuery.js"></script>
 		</head>
 	<body>
 		<div id="top"> 
@@ -31,6 +31,7 @@
 
 			</div>
 		</div>
+		<div id = "scroll" > </div>
 		<div id="wrapper">
 			<div id="left">
 						<div id="accordion" >
@@ -105,15 +106,15 @@
 			</div>
 			
 			
-			<div id="middle"> iPhone 5 & 5S Cases
+			<div id="middle"> iPhone 5 & 5S Cases. <br/> <br/>  <a style="font-size: 20px; color:white;"> Click a phone case for details. </a>
 				<div id= "wrapper2"> 
 					
 					<div onclick="box13()" id="box13" > </div> 
-					<div id="box14"> </div>	
-					<div id="box15"> </div>	
-					<div id="box16"> </div>	
-					<div id="box17"> </div>	
-					<div id="box18"> </div>	
+					<div onclick="box14()" id="box14"> </div>	
+					<div onclick="box15()" id="box15"> </div>	
+					<div onclick="box16()" id="box16"> </div>	
+					<div onclick="box17()" id="box17"> </div>	
+					<div onclick="box18()" id="box18"> </div>	
 					
 					
 				</div>
@@ -122,7 +123,7 @@
 			</div>
 			
 			<div id="right">
-			<div id = "scroll" > </div>
+			
 				<div id="social" >
 					
 						<a href="https://twitter.com/MiRepairs" target="blank">
@@ -198,9 +199,12 @@
 			</footer> 
 		</div>
 		<script>
-function box13() {
-    alert("iPhone 5 & 5S Black Gel Case. Cost: €20");
-}
+function box13() { alert("iPhone 5 & 5S Black Gel Case. Cost: €10");}
+function box14() { alert("iPhone 5 & 5S Black Wallet Case. Cost: €25");}
+function box15() { alert("iPhone 5 & 5S Blue Gel Case. Cost: €10");}
+function box16() { alert("iPhone 5 & 5S Red Flip Case. Cost: €20");}
+function box17() { alert("iPhone 5 & 5S Turquoise Gel Case. Cost: €10");}
+function box18() { alert("iPhone 5 & 5S White Gel Case. Cost: €10");}
 </script>
 	</body>
 

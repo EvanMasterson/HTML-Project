@@ -8,7 +8,7 @@
 		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 		<script src="http://code.jquery.com/mobile/1.4.4/jquery.mobile-1.4.4.min.js"></script>
 		<!-- scrolling -->
-		<script src="jquery.js"></script>
+		<script src="../../jQuery.js"></script>
 		</head>
 	<body>
 		<div id="top"> 
@@ -31,6 +31,7 @@
 				
 			</div>
 		</div>
+		<div id = "scroll" > </div>
 		<div id="wrapper">
 			<div id="left">
 							<div id="accordion" >
@@ -105,21 +106,21 @@
 			</div>
 			
 			
-			<div id="middle"> iPhone 4 & 4S Cases
+			<div id="middle"> iPhone 4 & 4S Cases <br/> <br/>  <a style="font-size: 20px; color:white;"> Click a phone case for details. </a>
 				<div id= "wrapper2"> 
 					
-					<div id="box1"> </div> 
-					<div id="box2"> </div>	
-					<div id="box3"> </div>	
-					<div id="box4"> </div>	
-					<div id="box5"> </div>	
-					<div id="box6"> </div>	
-					<div id="box7"> </div>
-					<div id="box8"> </div>	
-					<div id="box9"> </div>	
-					<div id="box10"> </div>	
-					<div id="box11"> </div>	
-					<div id="box12"> </div>
+					<div onclick="box1()" id="box1"> </div> 
+					<div onclick="box2()" id="box2"> </div>	
+					<div onclick="box3()" id="box3"> </div>	
+					<div onclick="box4()" id="box4"> </div>	
+					<div onclick="box5()" id="box5"> </div>	
+					<div onclick="box6()" id="box6"> </div>	
+					<div onclick="box7()" id="box7"> </div>
+					<div onclick="box8()" id="box8"> </div>	
+					<div onclick="box9()" id="box9"> </div>	
+					<div onclick="box10()" id="box10"> </div>	
+					<div onclick="box11()" id="box11"> </div>	
+					<div onclick="box12()" id="box12"> </div>
 					
 				</div>
 				
@@ -127,7 +128,7 @@
 			</div>
 			
 			<div id="right">
-			<div id = "scroll" > </div>
+			
 				<div id="social" >
 					
 						<a href="https://twitter.com/MiRepairs" target="blank">
@@ -202,6 +203,32 @@
 				
 			</footer> 
 		</div>
+		<script>
+		function box1(){
+		alert("iPhone 4 & 4s Black Flip Case. Cost: 15 Euro"); }
+		function box2(){
+		alert("iPhone 4 & 4s Black Gel Case. Cost: 10 Euro"); }
+		function box3(){
+		alert("iPhone 4 & 4s Black Wallet Case. Cost: 25 Euro"); }
+		function box4(){
+		alert("iPhone 4 & 4s Clear Gel Case. Cost: 10 Euro"); }
+		function box5(){
+		alert("iPhone 4 & 4s Clear Hard Case. Cost: 12 Euro"); }
+		function box6(){
+		alert("iPhone 4 & 4s Grey Flip Case. Cost: 22 Euro"); }
+		function box7(){
+		alert("iPhone 4 & 4s Pastel Shade 1 Case. Cost: 15 Euro"); }
+		function box8(){
+		alert("iPhone 4 & 4s Pastel Shade 2 Case. Cost: 15 Euro"); }
+		function box9(){
+		alert("iPhone 4 & 4s Pastel Shade 3 Case. Cost: 15 Euro"); }
+		function box10(){
+		alert("iPhone 4 & 4s Pastel Shade 4 Case. Cost: 15 Euro"); }
+		function box11(){
+		alert("iPhone 4 & 4s Pastel Shade 5 Case. Cost: 15 Euro"); }
+		function box12(){
+		alert("iPhone 4 & 4s Red Flip Case. Cost: 20 Euro"); }
+		</script>
 	</body>
 
 </html>
