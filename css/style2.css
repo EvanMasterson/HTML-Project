@@ -6,8 +6,7 @@
 #wowslider-container { 
 	zoom: 1; 
 	position: relative; 
-	width:707px;
-	width:707px;
+	width:100%;
 	height: 350px;
 	margin:0 auto;
 	z-index:0;
@@ -125,9 +124,9 @@
 	top: 20px;
 }
 #wowslider-container .ws-title{
-	position: absolute;
-	bottom: 10%;
-	left: 7%;
+	position: relative;
+	bottom: 25%;
+	width:50%;
 	z-index: 50;
 	padding:12px;
 	color: #000000;
