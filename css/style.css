@@ -782,11 +782,9 @@ display: block;
 /* link styling */
 
 
-a:visited{
-color: navy;
-} 
+
 a:hover{
-color: yellow;
+color: yellow !important;
 }
 
 
