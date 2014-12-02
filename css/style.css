@@ -82,7 +82,7 @@ padding-bottom: 150px;
 min-height:117%;
 width:70%;
 float:left;
-background-color:blue;
+background-color:white;
 color: Navy;
 font-size: 30px;
 text-align: center;
@@ -162,6 +162,20 @@ background-image: url("../Pictures/header-1.png");
 margin-bottom: 110px;
 }
 
+#Samsung
+{
+height:120px;
+width:100%;
+position: relative;
+top:150px;
+background-color:#66FFFF;
+color: white;
+font-size: 30px;
+text-align: center;
+background-image: url("../Pictures/header-1.png");
+margin-bottom: 110px;
+}
+
 /* iPhone 4 & 4S */ 
 
 #box1
@@ -171,10 +185,11 @@ height: 160px;
 width:160px;
 position:relative;
 margin-top:5%;
-left:7%;
+left:-3%;
 float: left;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackflip.png");
 cursor:pointer;
+
 }
 
 #box2
@@ -183,7 +198,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:12%;
+left:1%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackgel.png");
@@ -196,7 +211,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:17%;
+left:5%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackwallet.png");
@@ -211,7 +226,7 @@ width:160px;
 position:relative;
 float:left;
 margin-top:5%;
-left:7%;
+left:9%;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4scleargel.png");
 cursor:pointer;
 }
@@ -222,7 +237,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:12%;
+left:-3%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sclearhard.png");
@@ -235,7 +250,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:17%;
+left:1%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sgreyflip.png");
@@ -250,7 +265,7 @@ width:160px;
 position:relative;
 float:left;
 margin-top:5%;
-left:7%;
+left:5%;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade1.png");
 cursor:pointer;
 }
@@ -261,7 +276,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:12%;
+left:9%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade2.png");
@@ -274,7 +289,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:17%;
+left:-3%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade3.png");
@@ -289,7 +304,7 @@ width:160px;
 position:relative;
 float:left;
 margin-top:5%;
-left:7%;
+left:1%;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade4.png");
 cursor:pointer;
 }
@@ -300,7 +315,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:12%;
+left:5%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade5.png");
@@ -313,7 +328,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:17%;
+left:9%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sredflip.png");
@@ -331,7 +346,7 @@ height: 160px;
 width:160px;
 position:relative;
 margin-top:5%;
-left:7%;
+left:-3%;
 float: left;
 background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5sblackgel.png");
 cursor:pointer;
@@ -343,7 +358,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:12%;
+left:1%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5sblackwallet.png");
@@ -356,7 +371,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:17%;
+left:5%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5sbluegel.png");
@@ -371,7 +386,7 @@ width:160px;
 position:relative;
 float:left;
 margin-top:5%;
-left:7%;
+left:9%;
 background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5sredflip.png");
 cursor:pointer;
 }
@@ -382,7 +397,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:12%;
+left:-3%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5sturquoisegel.png");
@@ -395,7 +410,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:17%;
+left:1%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5swhitegel.png");
@@ -412,7 +427,7 @@ height: 160px;
 width:160px;
 position:relative;
 margin-top:5%;
-left:7%;
+left:-3%;
 float: left;
 background-image: url("../Pictures/Iphone 5c cases/iphone5cblack.png");
 cursor:pointer;
@@ -424,7 +439,7 @@ height: 160px;
 width:160px;
 position:relative;
 margin-top:5%;
-left:12%;
+left:1%;
 float: left;
 background-image: url("../Pictures/Iphone 5c cases/iphone5cyellow.png");
 cursor:pointer;
@@ -436,7 +451,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:17%;
+left:5%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 5c cases/iphone5cblackflip.png");
@@ -449,7 +464,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:7%;
+left:9%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 5c cases/iphone5cblue.png");
@@ -464,7 +479,7 @@ width:160px;
 position:relative;
 float:left;
 margin-top:5%;
-left:12%;
+left:-3%;
 background-image: url("../Pictures/Iphone 5c cases/iphone5cgreen.png");
 cursor:pointer;
 }
@@ -475,7 +490,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:17%;
+left:1%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 5c cases/iphone5cpink.png");
@@ -488,7 +503,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:7%;
+left:5%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 5c cases/iphone5cwhite.png");
@@ -505,7 +520,7 @@ height: 160px;
 width:160px;
 position:relative;
 margin-top:5%;
-left:7%;
+left:-3%;
 float: left;
 background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6black.png");
 cursor:pointer;
@@ -518,7 +533,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:12%;
+left:1%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6blue.png");
@@ -531,7 +546,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:17%;
+left:5%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6grey.png");
@@ -546,7 +561,7 @@ width:160px;
 position:relative;
 float:left;
 margin-top:5%;
-left:7%;
+left:9%;
 background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6purple.png");
 cursor:pointer;
 }
@@ -556,7 +571,7 @@ cursor:pointer;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
+margin-top:-3%;
 left:12%;
 position:relative;
 float:left;
@@ -574,7 +589,7 @@ height: 160px;
 width:160px;
 position:relative;
 margin-top:5%;
-left:7%;
+left:-3%;
 float: left;
 background-image: url("../Pictures/Accessories/3.5 to 3.5 jack.png");
 cursor:pointer;
@@ -586,7 +601,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:12%;
+left:1%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Accessories/iphonecarcharger.png");
@@ -599,7 +614,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:17%;
+left:5%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Accessories/iphonemainscharger.png");
@@ -614,7 +629,7 @@ width:160px;
 position:relative;
 float:left;
 margin-top:5%;
-left:7%;
+left:9%;
 background-image: url("../Pictures/Accessories/microusbcarcharger.png");
 cursor:pointer;
 }
@@ -625,7 +640,7 @@ background-color: white;
 height: 160px;
 width:160px;
 margin-top:5%;
-left:12%;
+left:-3%;
 position:relative;
 float:left;
 background-image: url("../Pictures/Accessories/microusbdatacable.png");
@@ -638,7 +653,7 @@ height: 160px;
 width:160px;
 position:relative;
 float:left;
-margin-top:5%;
+margin-top:1%;
 left:17%;
 background-image: url("../Pictures/Accessories/microusbmainscharger.png");
 cursor:pointer;
@@ -997,3 +1012,159 @@ float:left;
 background-image: url("../Pictures/asus.png"); 
  } 
 
+/* Samsung Covers */
+#box37
+{
+background-color: white;
+height: 160px;
+width:160px;
+position:relative;
+margin-top:5%;
+left:-3%;
+float: left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackflip.png");
+cursor:pointer;
+}
+
+#box38
+{
+background-color: white;
+height: 160px;
+width:160px;
+margin-top:5%;
+left:1%;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackgel.png");
+cursor:pointer;
+}
+
+#box39
+{
+background-color: white;
+height: 160px;
+width:160px;
+margin-top:5%;
+left:5%;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackwallet.png");
+cursor:pointer;
+}
+
+#box40
+{
+background-color: white;
+height: 160px;
+width:160px;
+position:relative;
+float:left;
+margin-top:5%;
+left:9%;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4scleargel.png");
+cursor:pointer;
+}
+
+#box41
+{
+background-color: white;
+height: 160px;
+width:160px;
+margin-top:5%;
+left:-3%;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sclearhard.png");
+cursor:pointer;
+}
+
+#box42
+{
+background-color: white;
+height: 160px;
+width:160px;
+margin-top:5%;
+left:1%;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sgreyflip.png");
+cursor:pointer;
+}
+
+#box43
+{
+background-color: white;
+height: 160px;
+width:160px;
+position:relative;
+float:left;
+margin-top:5%;
+left:5%;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade1.png");
+cursor:pointer;
+}
+
+#box44
+{
+background-color: white;
+height: 160px;
+width:160px;
+margin-top:5%;
+left:9%;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade2.png");
+cursor:pointer;
+}
+
+#box45
+{
+background-color: white;
+height: 160px;
+width:160px;
+margin-top:5%;
+left:-3%;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade3.png");
+cursor:pointer;
+}
+
+#box46
+{
+background-color: white;
+height: 160px;
+width:160px;
+position:relative;
+float:left;
+margin-top:5%;
+left:1%;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade4.png");
+cursor:pointer;
+}
+
+#box47
+{
+background-color: white;
+height: 160px;
+width:160px;
+margin-top:5%;
+left:5%;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade5.png");
+cursor:pointer;
+}
+
+#box48
+{
+background-color: white;
+height: 160px;
+width:160px;
+margin-top:5%;
+left:9%;
+position:relative;
+float:left;
+background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sredflip.png");
+cursor:pointer;
+}
