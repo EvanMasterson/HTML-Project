@@ -79,7 +79,7 @@ padding-bottom: 150px;
 
 #middle
 {
-min-height:100%;
+min-height:117%;
 width:70%;
 float:left;
 background-color:blue;
@@ -862,5 +862,138 @@ font-size: 12px;
 width:1px;
 }
 
+#repairs{
+width:100%;
+min-height:900px;
+position:relative;
+top:2%;
+background-color: pink; /*pink is only in to se the div */
+}
 
+/* white behind pictures is only in to see the div can be changed to any colour with the background colour */
+#R1{
+height:83px;
+width:100%;
+position: relative;
+top:40px;
+background-color:white;
+color: white;
+font-size: 30px;
+text-align: center; 
+background-image: url("../Pictures/footer-background.png");
+}
+
+#R2{
+background-color: white;
+height: 100px;
+width:100px;
+position:relative;
+margin-top:9%;
+left:7%;
+float: left;
+background-image: url("../Pictures/apple.png");
+}
+
+#R3{
+background-color: white;
+height: 100px;
+width:100px;
+margin-top:9%;
+left:17%;
+position:relative;
+float:left;
+background-image: url("../Pictures/samsung.png");
+}
+
+#R4{
+height:90px;
+width:100%;
+position: relative;
+top: 550px;
+background-color:white;
+color: white;
+font-size: 20px;
+text-align: center;
+background-image: url("../Pictures/footer-background.png");
+}
+#R5 {
+background-color: white;
+height: 100px;
+width:100px;
+margin-top:9%;
+left:27%;
+position:relative;
+float:left;
+background-image: url("../Pictures/htc.png");}
+#R6{
+background-color: white;
+height: 100px;
+width:100px;
+margin-top:9%;
+left:37%;
+position:relative;
+float:left;
+background-image: url("../Pictures/nokia.png");}
+
+#R7{
+height:83px;
+width:100%;
+position: relative;
+top:60px;
+background-color:pink;
+color: yellow;
+font-size: 27px;
+text-align: center; 
+ }
+#R8{
+height:83px;
+width:100%;
+position: relative;
+top:200px;
+background-color:white; /* white is only in to see the div*/
+color: yellow;
+font-size: 27px;
+text-align: center;
+}
+
+#R9{
+background-color: white;
+height: 100px;
+width:100px;
+position:relative;
+margin-top:30%;
+left:7%;
+float: left;
+background-image: url("../Pictures/dell.png");
+}
+
+#R10 {
+background-color: white;
+height: 100px;
+width:100px;
+margin-top:30%;
+left:17%;
+position:relative;
+float:left;
+background-image: url("../Pictures/apple.png");}
+#R11{
+background-color: white;
+height: 100px;
+width:100px;
+margin-top:30%;
+left:27%;
+position:relative;
+float:left;
+background-image: url("../Pictures/hp.png");}
+
+#R12{
+background-color: white;
+height: 100px;
+width:100px;
+margin-top:10%;
+left:37%;
+position:relative;
+float:left;
+background-image: url("../Pictures/asus.png"); 
+ } 
 

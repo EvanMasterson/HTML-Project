@@ -1,16 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="shortcut icon" href="Pictures/tabicon.ico" >
-		<title>Mi Electronics || Home</title>
+		<title>Repairs</title>
 		
 		<link rel="stylesheet" href="css/style.css" />
-		<link rel="stylesheet" href="css/style2.css" />
-		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.4/jquery.mobile-1.4.4.min.css">
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="keywords" content="WOWSlider" />
-		<meta name="description" content="WOWSlider" />
-		<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.4/jquery.mobile-1.4.4.min.css">
 		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 		<script src="http://code.jquery.com/mobile/1.4.4/jquery.mobile-1.4.4.min.js"></script>
@@ -18,32 +11,34 @@
 		<script src="jquery.js"></script>
 	</head>
 	<body>
-	
-		<div id="top"> 
-			<div id="title"> 
-				<center> <h1>MiElectronics</h1> </center> 
-				<a href="index.html" target="_self" style= "color:black;">Home</a>
-				<a href="page2/ourproducts.html" target="_self" style= "color:black;">Our Products</a>
-				<a href="repairs.html" target="_self" style= "color:black;">Repairs</a>
-				<a href="page3/aboutus.html" target="_self" style= "color:black;">About Us</a>
-				<a href="page4/contactus.html" target="_self" style= "color:black;">Contact Us</a>
+		
+			<div id="top"> 
+				<div id="title"> 
+					<center> <h1>Screen Repairs</h1> </center> 
+					<a href="index.html" target="_self" style= "color:black;">Home</a>
+					<a href="page2/ourproducts.html" target="_self" style= "color:black;">Our Products</a>
+					<a href="repairs.html" target="_self" style= "color:black;">Repairs</a>
+					<a href="page3/aboutus.html" target="_self" style= "color:black;">About Us</a>
+					<a href="page4/contactus.html" target="_self" style= "color:black;">Contact Us</a>
+				</div>
+				<div id="search">
+					<form>
+						Search:
+						<input type="search" name="googlesearch">
+					</form>
+				</div>
+				<div id="logo">
+					<a href="index.html" target="_self">
+					<img src="Pictures/Icon.png" style="width:140px;height:125px;border:0" > </a>
+
+					
+
+				</div>
 			</div>
-			<div id="search">
-				<form>
-					Search:
-					<input type="search" name="googlesearch">
-				</form>
-			</div>
-			<div id="logo">
-				<a href="index.html" target="_self">
-				<img src="Pictures/Icon.png" style="width:140px;height:125px;border:0" > </a>
-			</div>
-		</div>
 		<div id = "scroll" > </div>
 		<div id="wrapper">
 			<div id="left">
-				
-				<div id="accordion" >
+						<div id="accordion" >
 						<div data-role="page" class=".ui-page.ui-page-theme-a.ui-page-active">
 						<div data-role="main" class="ui-content">
 							<div data-role="collapsible">
@@ -82,22 +77,20 @@
 						<div data-role="main" class="ui-content">
 							<div data-role="collapsible">
 								 <h1 class="ui-collapsible-heading-toggle ui-btn ui-icon-plus ui-btn-icon-left ui-btn-inherit"> Accessories</h1>
-								 <form action="">
 								 <!-- put link to accessories in product page here -->
-								 <a href="page2/ourproducts.html" target="_self">Phone Cases/Covers</a>
+								 <a href="../page2/ourproducts.html" target="_self">Phone Cases/Covers</a>
 								 Screen Protectors
 								 Earphones
 								 Headphones
-								
+
 								<input type="submit" value="Submit">
-								</form>
 							</div>
 						</div>
 			  
 						<div data-role="main" class="ui-content">
 							<div data-role="collapsible">
 								  <h1 class="ui-collapsible-heading-toggle ui-btn ui-icon-plus ui-btn-icon-left ui-btn-inherit"> Your Details </h1>
-								  <form action="">
+								  <form action="demo_form.asp">
 									Name: <input type="text" name="fullname"><br>
 									Email: <input type="text" name="email"><br>
 									Mobile: <input type="text" name="mobile"><br>
@@ -105,9 +98,8 @@
 
 									<p> Use the arrows to navigate up and down the dates. </p>
 									<p>Click the downward arrow on the right for calendar view.</p>
-								
-								<input type="submit" value="Submit">
 								</form>
+								<input type="submit" value="Submit">
 							</div>
 						  </div>
 					  <div data-role="footer" class="ui-content.ui-footer.ui-bar-inherit">
@@ -118,29 +110,31 @@
 			</div>
 			
 			<div id="middle">
-				<div id="wowslider-container">
-				<div class="ws_images"><ul>
-				<li><a href="http://www.wowslider.com/index.html#overview"><img src="images/slide1.jpg" alt="" title="" id="wows_0"/></a></li>
-				<li><a href="http://www.wowslider.com/demo.html"><img src="images/slide2.jpg" alt="You can add description to slides!" title="You can add description to slides!" id="wows_1"/></a></li>
-				<li><a href="http://www.wowslider.com/index.html#download"><img src="images/slide3.jpg" alt="" title="" id="wows_2"/></a></li>
-				</ul></div>
-				<div class="ws_bullets"><div>
-				<a href="#" title=""><img src="images/slide1.jpg" alt=""/>1</a>
-				<a href="#" title="You can add description to slides!"><img src="images/slide2.jpg" alt="You can add description to slides!"/>2</a>
-				<a href="#" title=""><img src="images/slide3.jpg" alt=""/>3</a>
-				</div></div>
-					<a href="#" class="ws_frame"></a>
-					<div class="ws_shadow"></div>
+				What We Repair:
+				<!-- divs R8 - R12 are being pushed over to the right for some reason, as if theres something pushing it over. Footer div was working then went to the top. -->
+				<div id="repairs">
+					<div id="R1" > <a style= "color:white; font-size: 15px;" > <p>For enquiries about screen repairs give us a call or drop in to our store. Details on our <a href="page4/contactus.html" target="_self" style= "color:white; font-size:15px;"> contact us </a> <a style="color:white; font-size:15px;"> page.</p>
+									<a style= "color:white; font-size: 10px;" >	<p> *Prices may vary due to type of product, screen size or make</div>
+					<div id="R7" > Phones We Repair:  </div>
+					<div id="R2" >  </div>
+					<div id="R3" >  </div>
+					<div id="R5" >  </div>
+					<div id="R6" >  </div>
+					<div id="R8" > Laptops We Repair: </div>
+					<div id="R9" >  </div>
+					<div id="R10" >  </div>
+					<div id="R11" >  </div>
+					<div id="R12" >  </div>
+					<div id="R4" > <a style= "color:red; font-size: 20px;" > <br/>*Tablet Screens Coming Soon!* </div>
+					
+					
 				</div>
-				<script type="text/javascript" src="wowslider.js"></script>
-				<script type="text/javascript" src="script.js"></script>	
 			</div>
-				
+			
 			<div id="right">
 			
-				<div id="social" >
-					
-						<a href="https://twitter.com/MiRepairs" target="blank" style= "{color: black;}"> 
+				
+						<a href="https://twitter.com/MiRepairs" target="blank" style= "color:black;">
 						<img src="pictures/twitter-logo.png" alt="Twitter" style="width:32px;height:32px;border:0"><br/>Follow us on Twitter</a> 
 					
 						<br/> <br/>
@@ -148,11 +142,9 @@
 						<a href="https://www.facebook.com/pages/Mi-Electronics/617060458404532?sk=timeline&ref=page_internal" target="blank" style= "color:black;">
 						<img src="pictures/fb_icon_325x325.png" alt="Facebook" style="width:32px;height:32px;border:0"><br/>Like us on Facebook</a>
 					
-					<!-- add voucher div and features --> 
 				</div>
-			 </div>
-
-			 <footer>
+			</div>
+			<footer>
 			  
 				<div class="footer">
 					<img class="footer"src= "pictures/footer-background.png" alt="Footer" style="width:100%;height:10%;border:0">
@@ -165,12 +157,12 @@
 							
 						</div> 
 						<div id="f2">
-							<a href="https://twitter.com/MiRepairs" target="blank" style= "color:black;"><img src="pictures/twitter-logo.png" alt="Twitter" style="width:32px;height:32px;border:0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/pages/Mi-Electronics/617060458404532?sk=timeline&ref=page_internal" target="blank" style="color:black;"><img src="pictures/fb_icon_325x325.png" alt="Facebook" style="width:32px;height:32px;border:0"> </a>
+							<a href="https://twitter.com/MiRepairs" target="blank" ><img src="pictures/twitter-logo.png" alt="Twitter" style="width:32px;height:32px;border:0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/pages/Mi-Electronics/617060458404532?sk=timeline&ref=page_internal" target="blank"><img src="pictures/fb_icon_325x325.png" alt="Facebook" style="width:32px;height:32px;border:0"> </a>
 						</div>
 						<div class ="f3" >
 						<a href = "#scroll" target="_self" >
-						<img class = "f3" src = "pictures/bottomicon.png" alt="Logo1" style="width:100px;height:100px;border:0">
-						
+						<img class "f3" src = "pictures/bottomicon.png" alt="Logo1" style="width:100px;height:100px;border:0">
+						</div>
 							<script>
 
 								$(function() {
@@ -201,28 +193,19 @@
 
 						});
 
-					</script> </div>
-
-						<div id = "f4" > <a style= "color:white;" >Call us: <a href="page4/contactus.html" target="_self" style= "color:white;">010000000 </a></div>
-						<div class="f5"> <h3> <a style= "color:white;" > Cases </h3>
-
-						
-
+					</script>
+						<div id = "f4" ><a style= "color:white;" > Call us:<a href="page4/contactus.html" target="_self" style= "color:white;"> 010000000 </a></div>
+						<div class="f5"> <h3><a style= "color:white;" > Cases </h3>
 							<p> <a href="page2/Products pages linked pages/iPhone4&4S.html" target="_self" style= "color:white;">  iPhone 4 & 4s Cases  </p>
 							<p> <a href="page2/Products pages linked pages/iPhone5&5S.html" target="_self" style= "color:white;">  iPhone 5 & 5s Cases   </p>
 							<p> <a href="page2/Products pages linked pages/iPhone5c.html" target="_self" style= "color:white;">  iPhone 5c Cases </p>
 							<p> <a href="page2/Products pages linked pages/iPhone6.html" target="_self" style= "color:white;"> iPhone 6 Cases  </p>
 							
 						</div> 
-						
 					</div>
 				
 			</footer> 
-
 		</div>
-		
-
-
 	</body>
 
 </html>
