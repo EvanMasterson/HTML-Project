@@ -161,7 +161,7 @@
 	height:20%;
 	position: absolute;
 	left:0;
-	bottom:-15%;
+	bottom:-20%;
 	z-index:-1;
 }
 * html #wowslider-container .ws_shadow{/*ie6*/
