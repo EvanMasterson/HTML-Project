@@ -925,10 +925,11 @@ background-image: url("../Pictures/samsung.png");
 height:90px;
 width:100%;
 position: relative;
-top: 550px;
+float:left;
 background-color:white;
 color: white;
 font-size: 20px;
+margin-top:10%;
 text-align: center;
 background-image: url("../Pictures/footer-background.png");
 }
@@ -965,11 +966,12 @@ text-align: center;
 height:83px;
 width:100%;
 position: relative;
-top:200px;
+top:100px;
 background-color:white; /* white is only in to see the div*/
 color: yellow;
 font-size: 27px;
 text-align: center;
+float:left;
 }
 
 #R9{
