@@ -28,7 +28,7 @@ background-image: url("../Pictures/headerbg.png");
 #title
 {
 position:fixed;
-left:40%;
+left:36%;
 top:50px;
 }
 
@@ -153,7 +153,7 @@ background-image: url("../Pictures/header-1 copy.png");
 height:120px;
 width:100%;
 position: relative;
-top:150px;
+top:72px;
 background-color:#66FFFF;
 color: white;
 font-size: 30px;
