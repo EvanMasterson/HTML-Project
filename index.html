@@ -33,6 +33,13 @@
 					Search:
 					<input type="search" name="googlesearch">
 				</form>
+				<!-- need to add domain name in below -->
+				<script type="text/javascript">
+				document.getElementById('search').onsubmit = function() {
+					window.location = 'http://www.google.com/search?q=site:yoursitename.com ' + document.getElementById('search').value;
+					return false;
+					}
+				</script>
 			</div>
 			<div id="logo">
 				<a href="index.html" target="_self">
