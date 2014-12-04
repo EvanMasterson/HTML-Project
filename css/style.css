@@ -184,7 +184,6 @@ background-color: white;
 height: 160px;
 width:160px;
 position:relative;
-margin-top:5%;
 left:7%;
 float: left;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4sblackflip.png");
@@ -199,7 +198,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:12%;
 position:relative;
 float:left;
@@ -215,7 +213,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:17%;
 position:relative;
 float:left;
@@ -233,7 +230,6 @@ height: 160px;
 width:160px;
 position:relative;
 float:left;
-margin-top:5%;
 left:7%;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4scleargel.png");
 cursor:pointer;
@@ -247,7 +243,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:12%;
 position:relative;
 float:left;
@@ -263,7 +258,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:17%;
 position:relative;
 float:left;
@@ -281,7 +275,6 @@ height: 160px;
 width:160px;
 position:relative;
 float:left;
-margin-top:5%;
 left:7%;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade1.png");
 cursor:pointer;
@@ -295,7 +288,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:12%;
 position:relative;
 float:left;
@@ -311,7 +303,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:17%;
 position:relative;
 float:left;
@@ -329,7 +320,6 @@ height: 160px;
 width:160px;
 position:relative;
 float:left;
-margin-top:5%;
 left:7%;
 background-image: url("../Pictures/Iphone 4 & 4S/iphone4&4spastelshade4.png");
 cursor:pointer;
@@ -343,7 +333,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:12%;
 position:relative;
 float:left;
@@ -359,7 +348,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:17%;
 position:relative;
 float:left;
@@ -380,7 +368,6 @@ background-color: white;
 height: 160px;
 width:160px;
 position:relative;
-margin-top:5%;
 left:7%;
 float: left;
 background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5sblackgel.png");
@@ -395,7 +382,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:12%;
 position:relative;
 float:left;
@@ -411,7 +397,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:17%;
 position:relative;
 float:left;
@@ -429,7 +414,6 @@ height: 160px;
 width:160px;
 position:relative;
 float:left;
-margin-top:5%;
 left:7%;
 background-image: url("../Pictures/Iphone 5 & 5S/iphone5&5sredflip.png");
 cursor:pointer;
@@ -442,8 +426,7 @@ box-shadow: 10px 10px 5px #888888;
 {
 background-color: white;
 height: 160px;
-width:160px;
-margin-top:5%;
+width:160px;;
 left:12%;
 position:relative;
 float:left;
@@ -459,7 +442,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:17%;
 position:relative;
 float:left;
@@ -479,7 +461,6 @@ background-color: white;
 height: 160px;
 width:160px;
 position:relative;
-margin-top:5%;
 left:7%;
 float: left;
 background-image: url("../Pictures/Iphone 5c cases/iphone5cblack.png");
@@ -494,7 +475,6 @@ background-color: white;
 height: 160px;
 width:160px;
 position:relative;
-margin-top:5%;
 left:12%;
 float: left;
 background-image: url("../Pictures/Iphone 5c cases/iphone5cyellow.png");
@@ -510,7 +490,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:17%;
 position:relative;
 float:left;
@@ -526,7 +505,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:7%;
 position:relative;
 float:left;
@@ -544,7 +522,6 @@ height: 160px;
 width:160px;
 position:relative;
 float:left;
-margin-top:5%;
 left:12%;
 background-image: url("../Pictures/Iphone 5c cases/iphone5cgreen.png");
 cursor:pointer;
@@ -558,7 +535,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:17%;
 position:relative;
 float:left;
@@ -574,7 +550,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:7%;
 position:relative;
 float:left;
@@ -594,7 +569,6 @@ background-color: white;
 height: 160px;
 width:160px;
 position:relative;
-margin-top:5%;
 left:7%;
 float: left;
 background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6black.png");
@@ -610,7 +584,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:12%;
 position:relative;
 float:left;
@@ -626,7 +599,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:17%;
 position:relative;
 float:left;
@@ -644,7 +616,6 @@ height: 160px;
 width:160px;
 position:relative;
 float:left;
-margin-top:5%;
 left:7%;
 background-image: url("../Pictures/Iphone 6 5.5 inch cases/iphone6purple.png");
 cursor:pointer;
@@ -658,7 +629,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:-3%;
 left:12%;
 position:relative;
 float:left;
@@ -678,7 +648,6 @@ background-color: white;
 height: 160px;
 width:160px;
 position:relative;
-margin-top:5%;
 left:7%;
 float: left;
 background-image: url("../Pictures/Accessories/3.5 to 3.5 jack.png");
@@ -693,7 +662,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:12%;
 position:relative;
 float:left;
@@ -709,7 +677,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:17%;
 position:relative;
 float:left;
@@ -727,7 +694,6 @@ height: 160px;
 width:160px;
 position:relative;
 float:left;
-margin-top:5%;
 left:7%;
 background-image: url("../Pictures/Accessories/microusbcarcharger.png");
 cursor:pointer;
@@ -741,7 +707,6 @@ box-shadow: 10px 10px 5px #888888;
 background-color: white;
 height: 160px;
 width:160px;
-margin-top:5%;
 left:12%;
 position:relative;
 float:left;
@@ -758,7 +723,6 @@ height: 160px;
 width:160px;
 position:relative;
 float:left;
-margin-top:1%;
 left:17%;
 background-image: url("../Pictures/Accessories/microusbmainscharger.png");
 cursor:pointer;
@@ -1015,7 +979,6 @@ background-color: white;
 height: 100px;
 width:100px;
 position:relative;
-margin-top:9%;
 left:7%;
 float: left;
 background-image: url("../Pictures/apple.png");
@@ -1025,7 +988,6 @@ background-image: url("../Pictures/apple.png");
 background-color: white;
 height: 100px;
 width:100px;
-margin-top:9%;
 left:17%;
 position:relative;
 float:left;
@@ -1048,7 +1010,6 @@ background-image: url("../Pictures/footer-background.png");
 background-color: white;
 height: 100px;
 width:100px;
-margin-top:9%;
 left:27%;
 position:relative;
 float:left;
@@ -1057,7 +1018,6 @@ background-image: url("../Pictures/htc.png");}
 background-color: white;
 height: 100px;
 width:100px;
-margin-top:9%;
 left:37%;
 position:relative;
 float:left;
@@ -1090,7 +1050,6 @@ background-color: white;
 height: 100px;
 width:100px;
 position:relative;
-margin-top:30%;
 left:7%;
 float: left;
 background-image: url("../Pictures/dell.png");
@@ -1100,7 +1059,6 @@ background-image: url("../Pictures/dell.png");
 background-color: white;
 height: 100px;
 width:100px;
-margin-top:30%;
 left:17%;
 position:relative;
 float:left;
@@ -1109,7 +1067,6 @@ background-image: url("../Pictures/apple.png");}
 background-color: white;
 height: 100px;
 width:100px;
-margin-top:30%;
 left:27%;
 position:relative;
 float:left;
@@ -1119,7 +1076,6 @@ background-image: url("../Pictures/hp.png");}
 background-color: white;
 height: 100px;
 width:100px;
-margin-top:10%;
 left:37%;
 position:relative;
 float:left;
@@ -1269,6 +1225,136 @@ cursor:pointer;
 border: 2px solid black;
 border-radius: 5px;
 box-shadow: 10px 10px 5px #888888;
+}
+
+#col1
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+}
+
+#col2
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+margin-top:5%;
+}
+
+#col3
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+margin-top:5%;
+}
+
+#col4
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+margin-top:5%;
+}
+
+#col5
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+}
+
+#col6
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+margin-top:5%;
+}
+
+#col7
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+}
+
+#col8
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+margin-top:5%;
+}
+
+#col9
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+margin-top:5%;
+}
+
+#col10
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+}
+
+#col11
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+margin-top:5%;
+}
+
+#col12
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+}
+
+#col13
+{
+width:100%;
+height:180px;
+background-color:blue;
+float:left;
+margin-top:5%;
+}
+
+#repaircol1
+{
+width:100%;
+height:120px;
+background-color:blue;
+float:left;
+margin-top:10%;
+}
+
+#repaircol2
+{
+width:100%;
+height:120px;
+background-color:blue;
+float:left;
+margin-top:20%;
 }
 
 
