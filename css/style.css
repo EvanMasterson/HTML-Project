@@ -958,7 +958,7 @@ width:100%;
 min-height:900px;
 position:relative;
 top:2%;
-background-color: pink; /*pink is only in to se the div */
+background-color: white; 
 }
 
 /* white behind pictures is only in to see the div can be changed to any colour with the background colour */
@@ -1028,8 +1028,8 @@ height:83px;
 width:100%;
 position: relative;
 top:60px;
-background-color:pink;
-color: yellow;
+background-color:white;
+color: Navy;
 font-size: 27px;
 text-align: center; 
  }
@@ -1039,7 +1039,7 @@ width:100%;
 position: relative;
 top:100px;
 background-color:white; /* white is only in to see the div*/
-color: yellow;
+color: Navy;
 font-size: 27px;
 text-align: center;
 float:left;
@@ -1222,7 +1222,6 @@ box-shadow: 10px 10px 5px #888888;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 }
 
@@ -1230,7 +1229,6 @@ float:left;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 margin-top:5%;
 }
@@ -1239,7 +1237,6 @@ margin-top:5%;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 margin-top:5%;
 }
@@ -1248,7 +1245,6 @@ margin-top:5%;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 margin-top:5%;
 }
@@ -1257,7 +1253,6 @@ margin-top:5%;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 }
 
@@ -1265,7 +1260,6 @@ float:left;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 margin-top:5%;
 }
@@ -1274,7 +1268,6 @@ margin-top:5%;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 }
 
@@ -1282,7 +1275,6 @@ float:left;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 margin-top:5%;
 }
@@ -1291,7 +1283,6 @@ margin-top:5%;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 margin-top:5%;
 }
@@ -1300,7 +1291,6 @@ margin-top:5%;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 }
 
@@ -1308,7 +1298,6 @@ float:left;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 margin-top:5%;
 }
@@ -1317,7 +1306,6 @@ margin-top:5%;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 }
 
@@ -1325,7 +1313,6 @@ float:left;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 margin-top:5%;
 }
@@ -1334,7 +1321,6 @@ margin-top:5%;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;;
 }
 
@@ -1342,7 +1328,6 @@ float:left;;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 margin-top:5%;
 }
@@ -1351,7 +1336,6 @@ margin-top:5%;
 {
 width:100%;
 height:180px;
-background-color:blue;
 float:left;
 margin-top:5%;
 }
@@ -1360,7 +1344,6 @@ margin-top:5%;
 {
 width:100%;
 height:120px;
-background-color:blue;
 float:left;
 margin-top:10%;
 }
@@ -1369,7 +1352,6 @@ margin-top:10%;
 {
 width:100%;
 height:120px;
-background-color:blue;
 float:left;
 margin-top:20%;
 }
