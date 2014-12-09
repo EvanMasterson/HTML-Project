@@ -28,7 +28,7 @@ background-image: url("../Pictures/headerbg.png");
 #title
 {
 position:fixed;
-left:36%;
+left:32%;
 top:50px;
 }
 
@@ -1363,5 +1363,13 @@ float:left;
 margin-top:20%;
 }
 
+#blog
+{
+position: relative;
+width:250px;
+height: 680px;
+margin-top: 3%;
+left: 2%;
+}
 
 
