@@ -36,8 +36,8 @@ top:50px;
 {
 position:fixed;
 float:right;
-top:100px;
-right:15%;
+top:12%;
+right:12%;
 }
 
 #logo
@@ -871,7 +871,8 @@ display: block;
 width:18px !important;
 height:18px !important;
 top:55% !important;
-margin-top:-10px !important;
+margin-top:-9% !important;
+left:3% !important;
 }
 
 
