@@ -28,7 +28,7 @@ background-image: url("../Pictures/headerbg.png");
 #title
 {
 position:fixed;
-left:32%;
+left:35%;
 top:50px;
 }
 
@@ -742,7 +742,6 @@ top:200px;
 color:black;
 font-size:15px;
 left:10%;
-margin-bottom:150px;
 right: 0;
 bottom: 0;
 }
@@ -765,8 +764,8 @@ font-size:70%;
 width: 100%;
 height: 130px;
 font-size: 85%;
-background-image: url("../Pictures/headerbg.png");
-color:white;
+position:relative;
+left:5%;
 }
 
 #scroll{
@@ -778,7 +777,7 @@ background: white;
 #accordion
 {
 background-color:#45E6C5;
-min-height:600px;
+min-height:100%;
 width:100%;
 background-image: url("../Pictures/headerbg.png");
 position:relative;
@@ -871,7 +870,6 @@ display: block;
 width:18px !important;
 height:18px !important;
 top:55% !important;
-margin-top:-9% !important;
 left:3% !important;
 }
 
@@ -1367,10 +1365,10 @@ margin-top:20%;
 #blog
 {
 position: relative;
-width:250px;
-height: 680px;
-margin-top: 3%;
-left: 2%;
+width:80%;
+height: 100%;
+margin-top: 5%;
+left: 10%;
 }
 
 
