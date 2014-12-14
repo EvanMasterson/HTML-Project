@@ -304,11 +304,11 @@ jQuery.fn.wowSlider = function (d) {
             if (G || F) {
                 D.html((G ? "<span>" + G + "</span>" : "") + (F ? "<div>" + F + "</div>" : ""));
                 D.fadeIn(400, function () {
-                    if (e.browser.msie) {
+                    /*if (e.browser.msie) {
                         e(this)
                             .get(0)
                             .style.removeAttribute("filter")
-                    }
+                    }*/
                 })
             }
         })
